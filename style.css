@@ -1,0 +1,15 @@
+body {
+    margin: 0%;
+}
+h1 {
+    position: relative;
+    bottom: 350px;
+    text-align: center;
+    font-size: 5rem;
+    color: #FFBB5C;
+    text-shadow: -2px 2px 0px black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#contenidoP {
+    flex: auto;
+}
